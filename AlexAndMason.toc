@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: AlexAndMason
+## Author: Stoopy and Credwig
+## Notes: A leveling guide for World of Warcraft Classic.
+## Version: 0.1
+## RequiredDeps:
+## OptionalDeps:
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+main.lua
+lvup.lua
